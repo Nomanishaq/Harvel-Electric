@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.topnav
+{width:100%;
+height:75px;
+background-color:white;
+position:fixed;
+z-index:3;
+}
+
+.slider
+{width:100%;
+height:700px;
+background-color:#CCC;}
+
+.logo
+{width:45%;
+height:75px;
+}
+.logo img
+{width:50%;
+height:75px;}
+
+.Menu
+{width:50%;
+height:75px;
+list-style-type:none;
+float:left;
+margin-left:50%;
+margin-top:-75px;}
+
+.Menu ul a
+{color:#000;
+	margin-left:10%;text-decoration:none;
+font-size:20px;
+padding:20px;}

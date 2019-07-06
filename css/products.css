@@ -1,0 +1,241 @@
+@charset "utf-8";
+/* CSS Document */
+.products
+{width:1366px;
+height:1050px;
+background-color:#F0F0F0;
+text-align:center;
+margin:0 auto;}
+
+
+.prod1
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:102.45px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod1img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Fridge/fridge%201/Silo-25_RF22K9570SG_1-400x599.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod1img img
+{transition:2s ease;
+}
+.prod1img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod1txt
+{width:75%;
+margin:0 auto;}
+
+
+
+.prod2
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:402.97px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod2img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Kitchen%20Appliances/85494_3_chefman-black-mini-waffle-maker.jpg);
+background-size:cover;
+overflow:hidden;
+background-repeat:no-repeat;
+}
+.prod2img img
+{transition:2s ease;
+}
+.prod2img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod2txt
+{width:75%;
+margin:0 auto;}
+
+
+
+.prod3
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:703.49px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod3img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Kitchen%20Appliances/1-47-e1479233686874.jpg) ;
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod3img img
+{transition:2s ease;
+}
+.prod3img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod3txt
+{width:75%;
+margin:0 auto;}
+
+
+.prod4
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:1004.01px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod4img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Home%20Appliances/u_21485801.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod4img img
+{transition:2s ease;
+}
+.prod4img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod4txt
+{width:75%;
+margin:0 auto;}
+
+
+.prod5
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:102.45px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod5img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/fans/u_10146246.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod5img img
+{transition:2s ease;
+}
+.prod5img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod5txt
+{width:75%;
+margin:0 auto;}
+
+.prod6
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:402.97px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod6img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Kitchen%20Appliances/41B2CZDDHJL.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod6img img
+{transition:2s ease;
+}
+.prod6img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod6txt
+{width:75%;
+margin:0 auto;}
+
+
+.prod7
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:703.49px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod7img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Kitchen%20Appliances/kitchenaid-ksm100pser-ultra-power-plus-stand-mixer-empire-red_2842_500.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod7img img
+{transition:2s ease;
+}
+.prod7img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod7txt
+{width:75%;
+margin:0 auto;}
+
+
+.prod8
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:1004.01px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.prod8img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/3d5751_24bac838b31b45eab43563f7d6886adc_mv2.jpeg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod8img img
+{transition:2s ease;
+}
+.prod8img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod8txt
+{width:75%;
+margin:0 auto;}

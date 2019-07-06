@@ -1,0 +1,535 @@
+@charset "utf-8";
+/* CSS Document */
+
+.products
+{width:1366px;
+height:1650px;
+background-color:#F0F0F0;
+text-align:center;
+margin:0 auto;
+}
+
+
+.prod1
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:102.45px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod1img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/ac6a72006bc6acba00eb34a8bb986056--pendant-lighting-pendant-lamps.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod1img img
+{transition:2s ease;
+}
+.prod1img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod1txt
+{width:75%;
+margin:0 auto;}
+.prod1btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod1btn h4
+{margin-top:11px;}
+.prod1btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod2
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:402.97px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod2img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/Ecolight-Free-Shipping-Modern-Pendant-Lamp-LED-lamp-Skygarden-Pendant-Dome-shape-Resin-Painting-Dinning-Room.jpg);
+background-size:cover;
+overflow:hidden;
+background-repeat:no-repeat;
+}
+.prod2img img
+{transition:2s ease;
+}
+.prod2img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod2txt
+{width:75%;
+margin:0 auto;}
+.prod2btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod2btn h4
+{margin-top:11px;}
+.prod2btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+
+.prod3
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:703.49px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod3img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/terence-woodgate-core-3-pendant-light-white.1447931204.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod3img img
+{transition:2s ease;
+}
+.prod3img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod3txt
+{width:75%;
+margin:0 auto;}
+.prod3btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod3btn h4
+{margin-top:11px;}
+.prod3btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod4
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:50px;
+margin-left:1004.01px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod4img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/New-arrival-handmade-rustic-rattan-pendant-light-6-rattan-lamp-brief-handmade-lamps.jpg_640x640.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod4img img
+{transition:2s ease;
+}
+.prod4img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod4txt
+{width:75%;
+margin:0 auto;}
+.prod4btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod4btn h4
+{margin-top:11px;}
+.prod4btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod5
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:102.45px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod5img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/cattelan-ras.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod5img img
+{transition:2s ease;
+}
+.prod5img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod5txt
+{width:75%;
+margin:0 auto;}
+.prod5btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod5btn h4
+{margin-top:11px;}
+.prod5btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod6
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:402.97px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod6img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/s-l300.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod6img img
+{transition:2s ease;
+}
+.prod6img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod6txt
+{width:75%;
+margin:0 auto;}
+.prod6btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod6btn h4
+{margin-top:11px;}
+.prod6btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod7
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:703.49px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod7img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/designer-lights-iron-blog-designer-lights.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod7img img
+{transition:2s ease;
+}
+.prod7img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod7txt
+{width:75%;
+margin:0 auto;}
+.prod7btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod7btn h4
+{margin-top:11px;}
+.prod7btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod8
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:550px;
+margin-left:1004.01px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.prod8img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/png_b11147268377.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod8img img
+{transition:2s ease;
+}
+.prod8img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod8txt
+{width:75%;
+margin:0 auto;}
+.prod8btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod8btn h4
+{margin-top:11px;}
+.prod8btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+
+.prod9
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:1050px;
+margin-left:102.45px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod9img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/il_570xN.436122066_e40a-1000x1000.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod9img img
+{transition:2s ease;
+}
+.prod9img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod9txt
+{width:75%;
+margin:0 auto;}
+.prod9btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod9btn h4
+{margin-top:11px;}
+.prod9btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod10
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:1050px;
+margin-left:402.97px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod10img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/i17-md13028079-9bmul-striking-designer-lights-litecraft-perla-range-matching-items-available.jpg);
+background-size:cover;
+overflow:hidden;
+background-repeat:no-repeat;
+}
+.prod10img img
+{transition:2s ease;
+}
+.prod10img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod10txt
+{width:75%;
+margin:0 auto;}
+.prod10btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod10btn h4
+{margin-top:11px;}
+.prod10btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+
+.prod11
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:1050px;
+margin-left:703.49px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod11img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/images.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod11img img
+{transition:2s ease;
+}
+.prod11img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod11txt
+{width:75%;
+margin:0 auto;}
+.prod11btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod11btn h4
+{margin-top:11px;}
+.prod11btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+.prod12
+{width:259.54px;
+height:450px;
+position:absolute;
+background-color:#FFF;
+margin-top:1050px;
+margin-left:1004.01px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.prod12img
+{margin:0 auto;
+width:75%;
+height:280px;
+background-image: url(../img/Lights/HTB1Yk.vIXXXXXamXXXXq6xXFXXXL.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.prod12img img
+{transition:2s ease;
+}
+.prod12img img:hover
+{opacity:0;
+transition:2s ease;
+}
+.prod12txt
+{width:75%;
+margin:0 auto;}
+.prod12btn
+{margin:0 auto;
+width:48%;
+height:40px;
+background-color:#0CF;
+border:solid white;
+margin-top:5px;
+color:white;
+}
+.prod12btn h4
+{margin-top:11px;}
+.prod12btn:hover
+{background-color:goldenrod;
+cursor:pointer;
+}
+
+
+
+

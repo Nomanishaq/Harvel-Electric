@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.slider1
+{width:100%;
+height:640px;
+background-image:url(../img/banner-outsourcing1.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+}
+.slidertxt1
+{background-color:black;
+opacity:0.7;
+width:100%;
+height:640px;
+color:white;
+font-size:32px;
+text-align:center;}
+.txt2
+{color:white;
+font-size:36px;
+width:60%;
+margin:0 auto;
+padding-top:250px;}
+
+.info1
+{width:100%;
+height:640px;
+background-color:#107E89;
+}
+.info1txt
+{width:1092px;
+margin:0 auto;
+height:640px;
+background-color:#F0F0F0;}
+
+.text
+{width:750px;
+height:640px;
+margin-left:171px;
+font-size:22px;
+font-family:Georgia, "Times New Roman", Times, serif;
+position:absolute;
+}
+.txt3
+{width:709.8px;
+margin:0 auto;
+position:absolute;}
+.txt3 p
+{font-size:large;}
+
+.parallex
+{width:100%;
+height:400px;
+background-image:url(../img/Billboard-conatct-us.jpg);
+background-attachment:fixed;
+background-size:cover;
+}
+.parefct
+{width:100%;
+height:400px;
+background-color:#FFF;
+opacity:0.7;}
+
+.contributers
+{width:100%;
+height:640px;
+background-color:#107E89;}
+.contibuterscntr
+{width:1092px;
+height:640px;
+margin:0 auto;
+background-color:#F0F0F0;}
+
+
+.person1
+{width:250px;
+height:525px;
+background-color:#107E89;
+color:white;
+margin-top:30px;
+margin-left:75px;
+position:absolute;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.person1img
+{margin:0 auto;
+width:100%;
+height:350px;
+background-color: #000;}
+
+.person2
+{width:250px;
+height:525px;
+background-color:#107E89;
+margin-top:30px;
+margin-left:421px;
+position:absolute;
+color:white;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.person2img
+{margin:0 auto;
+width:100%;
+height:350px;
+background-color: #000;}
+
+.person3
+{width:250px;
+height:525px;
+background-color:#107E89;
+margin-top:30px;
+margin-left:767px;
+color:white;
+position:absolute;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.person3img
+{margin:0 auto;
+width:100%;
+height:350px;
+background-color: #000;}
+
+
+
+.font1
+{width:80%;
+margin:0 auto;}
